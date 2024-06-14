@@ -1,7 +1,7 @@
-# SwaggerExpert
-
-![swagger-expert-logo](https://github.com/swaggerexpert/.github/assets/193286/0026f8e5-df42-40af-ae8a-c557dfd53234)
-
-
-Expert Guidance and Solutions for Swagger Open Source Tools. Providing insights and solutions for Swagger tools.
+<div align="center">
+    <h1>SwaggerExpert</h1>
+    <h2>Expert Guidance and Solutions for Swagger Open Source Tools!</h2>
+    <img src="https://github.com/swaggerexpert/.github/assets/193286/beb92e81-2b1b-4592-b6f4-325bf67ad44a" width="500"  />
+    <p> Providing insights and solutions for Swagger tools. </p>
+</div>
 
