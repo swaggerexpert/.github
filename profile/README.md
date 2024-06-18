@@ -31,6 +31,10 @@ At SwaggerExpert, I pride myself on my deep knowledge and hands-on experience wi
 Explore my [GitHub repositories](https://github.com/orgs/swaggerexpert/repositories) to find a variety of projects, tools, and resources related to Swagger. 
 Whether you’re looking for sample projects, plugins, or detailed documentation, I have something for everyone.
 
+### Join the Discussion
+
+Have questions or want to share your thoughts? Join our [Discussions](https://github.com/orgs/swaggerexpert/discussions) to engage with the community!
+
 ### Get in Touch
 
 I am here to help you make the most out of Swagger tools. If you have any questions, need support, or are interested in my consulting services, please reach out to me.
