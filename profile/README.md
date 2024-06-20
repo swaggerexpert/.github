@@ -22,9 +22,11 @@ At SwaggerExpert, I pride myself on my deep knowledge and hands-on experience wi
 ### What I Offer
 
 - **Consulting Services**: Personalized consulting to address your specific needs and challenges with Swagger tools.
-- **Custom Implementations**: Tailored solutions to integrate Swagger tools into your existing workflow.
 - **Training and Workshops**: Hands-on training sessions to help your team master Swagger tools and best practices.
 - **Support and Maintenance**: Ongoing support to ensure your Swagger tools are up-to-date and functioning optimally.
+<!--
+- **Custom Implementations**: Tailored solutions to integrate Swagger tools into your existing workflow. 
+-->
 
 ### My Projects
 
