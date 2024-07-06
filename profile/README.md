@@ -5,7 +5,7 @@
     <p> <i>Providing insights and solutions for Swagger tools.</i> </p>
 </div>
 
-Welcome to SwaggerExpert, your go-to source for expert guidance and comprehensive solutions for Swagger open source tools.
+Welcome to SwaggerExpert, your go-to source for expert guidance, comprehensive solutions for Swagger open source tools, and a vibrant community dedicated to developing extensions and enhancing the Swagger ecosystem.
 With more than four years of experience as a maintainer of Swagger tools, I am dedicated to helping developers and organizations effectively utilize and master Swagger for their API development needs.
 
 ### About Me
