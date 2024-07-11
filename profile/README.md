@@ -9,7 +9,10 @@
 With more than four years of experience as a maintainer of Swagger tools, I am dedicated to helping developers and organizations effectively utilize and master Swagger for their API development needs.
 -->
 
-Welcome to SwaggerExpert, a community dedicated to developing extensions and enhancing the Swagger ecosystem. SwaggerExpert extensions and libraries are mostly related to:
+Welcome to SwaggerExpert, a community dedicated to developing extensions and enhancing the Swagger ecosystem. 
+
+
+<!-- SwaggerExpert extensions and libraries are mostly related to: --
 
 
 <!-- With more than four years of experience as a maintainer of Swagger tools, I am dedicated to helping developers and organizations effectively utilize and master Swagger for their API development needs. -->
@@ -21,10 +24,12 @@ Welcome to SwaggerExpert, a community dedicated to developing extensions and enh
 At SwaggerExpert, I pride myself on my deep knowledge and hands-on experience with Swagger tools. My mission is to empower developers and organizations with the best practices, tools, and support to streamline API development and ensure high-quality API design and documentation.
 -->
 
+<!--
 - [SwaggerUI](https://github.com/swagger-api/swagger-ui): Enhance your API documentation with interactive and user-friendly interfaces.
 - [SwaggerEditor](https://github.com/swagger-api/swagger-editor): Simplify API design and documentation with powerful, easy-to-use tools.
 - [SwaggerClient](https://github.com/swagger-api/swagger-js): Connect to swagger-enabled APIs via browser or Node.js
 - [ApiDOM](https://github.com/swagger-api/apidom): ApiDOM standardizes the parsing, manipulation, and generation of API definitions across formats (and much more)
+-->
 
 <!--
 ### What I Offer
