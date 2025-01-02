@@ -56,6 +56,10 @@ Have questions or want to share your thoughts? Join our [Discussions](https://gi
 - **Website**: https://swaggerexpert.com
 - **Email**: contact@swaggerexpert.com
 
+### Supported by
+
+[![JetBrains logo.](https://resources.jetbrains.com/storage/products/company/brand/logos/jetbrains.svg)](https://jb.gg/OpenSourceSupport)
+
 ---
 
 <div align="center">
