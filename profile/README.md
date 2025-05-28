@@ -9,7 +9,7 @@ Welcome to SwaggerExpert, a community dedicated to developing extensions and lib
 
 ### Projects
 
-Explore SwaggerExperts [GitHub repositories](https://github.com/orgs/swaggerexpert/repositories) to find a variety of extensions, libraries, and resources related to Swagger. 
+Explore SwaggerExperts [GitHub repositories](https://github.com/orgs/swaggerexpert/repositories) to find a variety of extensions, libraries, and resources related to Swagger/OpenAPI. 
 Whether you’re looking for sample projects, plugins, or detailed documentation, SwaggerExpert have something for everyone.
 
 ### Join the Discussion
