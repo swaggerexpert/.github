@@ -9,7 +9,7 @@
 With more than four years of experience as a maintainer of Swagger tools, I am dedicated to helping developers and organizations effectively utilize and master Swagger for their API development needs.
 -->
 
-Welcome to SwaggerExpert, a community dedicated to developing extensions and libraries enhancing the Swagger ecosystem. 
+Welcome to SwaggerExpert, a community dedicated to developing extensions and libraries enhancing the Swagger/OpenAPI ecosystem. 
 
 
 <!-- SwaggerExpert extensions and libraries are mostly related to: --
